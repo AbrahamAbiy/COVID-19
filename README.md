@@ -1,3 +1,3 @@
 # COVID-19
 
-![](Flu and COVID deaths 2020.png)
+![](Flu%20and%20COVID%20deaths%202020.png)
