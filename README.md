@@ -1,6 +1,6 @@
 # COVID-19
 
-<h2>Introduction 
+<h2>Introduction<h2>
   
 COVID-19 is the biggest issue currently facing the world, people of all ages and locations are being affected by this virus. As governments strategise about how to deal with this virus and when to implement conditions such as nationwide lockdowns, predictive analysis is becoming much more relevant. In this project we look to create an ARIMA model to forecast future COVID-19 mortalility in the UK. In addition to this many COVID-19 naysayers repeatedly point to previous flu mortality rates when attempting to downplay the significance of COVID-19 mortalilty rates. So to test the viablilty of this argument we look to implement 2 sample t-test to see if there is any significant difference between COVID-19 mortality and total mortality in the UK.
 
